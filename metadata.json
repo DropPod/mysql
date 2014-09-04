@@ -1,0 +1,9 @@
+{
+  "name": "DropPod/mysql",
+  "version": "0.0.0",
+  "summary": "A basic type for managing MySQL",
+  "source": "https://github.com/DropPod/mysql.git",
+  "author": "Pieter van de Bruggen",
+  "license": "MIT",
+  "dependencies": []
+}
